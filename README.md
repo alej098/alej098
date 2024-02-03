@@ -1,6 +1,8 @@
 <h1 align="center">Hola, soy Diego Becerra</h1>
 
-[<img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcS_ALxQlxMZLKtEi9JO3BvXaCoZB2G89MianAG4DwnpbPUPVepU8Cd0KY1FkMrL81jV_g&usqp=CAU" title="CatCat" alt="CatCat">](https://github.com/alej098)
+<p align="center">
+  [<img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcS_ALxQlxMZLKtEi9JO3BvXaCoZB2G89MianAG4DwnpbPUPVepU8Cd0KY1FkMrL81jV_g&usqp=CAU" title="CatCat" alt="CatCat">](https://github.com/alej098)
+</p>
 
 ## Sobre mi :
 
@@ -28,7 +30,7 @@
 </a>
 
 <a href="">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=SinthiaGonzalez&repo=challenge-Alura&theme=tokyonight" />
+  <img align="center" src="" />
 <br>
 # Contacto :
 
