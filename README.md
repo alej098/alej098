@@ -1,7 +1,7 @@
 <h1 align="center">Hola, soy Diego Becerra</h1>
 
 <p align="center">
-  [<img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcS_ALxQlxMZLKtEi9JO3BvXaCoZB2G89MianAG4DwnpbPUPVepU8Cd0KY1FkMrL81jV_g&usqp=CAU" title="CatCat" alt="CatCat">](https://github.com/alej098)
+  [<img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcS_ALxQlxMZLKtEi9JO3BvXaCoZB2G89MianAG4DwnpbPUPVepU8Cd0KY1FkMrL81jV_g&usqp=CAU" title="CatCat" alt="CatCat">]
 </p>
 
 ## Sobre mi :
