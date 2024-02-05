@@ -6,11 +6,11 @@
 
 ## Sobre mi :
 
-- 🌱 soy Desarrollador Full Stack con conocimientos en Javascript
+- 💻 soy Desarrollador Full Stack con conocimientos en Javascript
 - 👨‍💻  Actualmente estoy trabajando en tecnologías de desarrollo web como JavaScript, React, Node.js y SQL, DOM, CSS, ES6,Redux 
-- 📚 Actualmente estoy aprendiendo todo sobre tecnologías Frontend y Backend 😅
-- 💪🏼  Metas futuras: aprender más tecnologías: nunca dejar de crear nuevas ideas.
-- 🤔 Actualmente estoy es busca de oportunidades laborales que me permitan mejorar y ampliar mis conocimientos
+- 👨🏻‍🎓  Actualmente estoy aprendiendo todo sobre tecnologías Frontend y Backend 😅
+- 💪  Metas futuras: aprender más tecnologías: nunca dejar de crear nuevas ideas.
+- ➡️ Actualmente estoy es busca de oportunidades laborales que me permitan mejorar y ampliar mis conocimientos
 <br>
 
 <hr>
