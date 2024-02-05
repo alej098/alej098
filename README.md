@@ -29,8 +29,8 @@
   <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=SinthiaGonzalez&repo=Serena-Hotel-&theme=tokyonight" />
 </a>
 
-<a href="">
-  <img align="center" src="" />
+<a href="https://github.com/alej098/proyecto-videojuegos">
+  <img align="center" src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSqrvi9aTdwGo26mRAoYK8CpmMZqpKWkXYbgw&usqp=CAU" />
 <br>
 # Contacto :
 
